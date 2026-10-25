@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "netherite_upgradeses:block/raw_enderanite_block"
+    }
+  }
+}

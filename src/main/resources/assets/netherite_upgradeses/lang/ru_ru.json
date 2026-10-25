@@ -1,0 +1,37 @@
+{
+  "item.netherite_upgradeses.raw_enderanite_nugget": "Кусочек рудного эндеранита",
+  "item.netherite_upgradeses.raw_enderanite": "Рудный эндеранит",
+  "item.netherite_upgradeses.raw_enderanite_block": "Блок рудного эндеранита",
+  "item.netherite_upgradeses.enderanite_nugget": "Кусочек эндеранита",
+  "item.netherite_upgradeses.enderanite_ingot": "Слиток эндеранита",
+  "item.netherite_upgradeses.enderanite_block": "Блок эндеранита",
+  "item.netherite_upgradeses.enderanite_ore": "Эндеранитовая руда",
+  "item.netherite_upgradeses.enderanite_smithing_template": "Шаблон эндеранитового улучшения",
+  "item.netherite_upgradeses.enderanite_sword": "Эндеранитовый меч",
+
+  "item.netherite_upgradeses.raw_blazing_nugget": "Кусочек рудного пламени",
+  "item.netherite_upgradeses.raw_blazing": "Рудное пламя",
+  "item.netherite_upgradeses.raw_blazing_block": "Блок рудного пламени",
+  "item.netherite_upgradeses.blazing_nugget": "Кусочек пламени",
+  "item.netherite_upgradeses.blazing_ingot": "Слиток пламени",
+  "item.netherite_upgradeses.blazing_block": "Блок пламени",
+  "item.netherite_upgradeses.blazing_ore": "Пламенная руда",
+  "item.netherite_upgradeses.blazing_smithing_template": "Шаблон пламенного улучшения",
+  "item.netherite_upgradeses.blazing_sword": "Пламенный меч",
+
+
+  "block.netherite_upgradeses.enderanite_ore": "Эндеранитовая руда.",
+  "block.netherite_upgradeses.raw_enderanite_block": "Блок рудного эндеранита.",
+  "block.netherite_upgradeses.enderanite_block": "Блок эндеранита.",
+
+  "block.netherite_upgradeses.blazing_ore": "Пламенная руда.",
+  "block.netherite_upgradeses.raw_blazing_block": "Блок рудного пламени.",
+  "block.netherite_upgradeses.blazing_block": "Блок пламени.",
+
+
+  "creativetab.netherite_upgradeses_tab": "Вкладка netherite upgradeses",
+
+
+
+  "dataPack.netherite_upgradeses.name": "Ё_Ё"
+}

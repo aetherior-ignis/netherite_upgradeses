@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "show_notification": true,
+    "key": {
+        "M": {"item": "netherite_upgradeses:raw_enderanite_nugget"}
+    },
+    "pattern": [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    "result": {
+        "item": "netherite_upgradeses:raw_enderanite",
+        "count": 1
+    }
+}

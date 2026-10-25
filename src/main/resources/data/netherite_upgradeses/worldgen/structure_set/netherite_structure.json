@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "netherite_upgradeses:netherite_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 16467382,
+    "spacing": 34,
+    "separation": 18,
+    "spread_type": "linear"
+  }
+}

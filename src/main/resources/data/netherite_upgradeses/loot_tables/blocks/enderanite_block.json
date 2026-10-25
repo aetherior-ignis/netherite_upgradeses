@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "netherite_upgradeses:blocks/enderanite_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "netherite_upgradeses:enderanite_block"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:block/cube_all",
+  "textures" : {
+    "all" : "netherite_upgradeses:block/raw_blazing_block_picture"
+  }
+}

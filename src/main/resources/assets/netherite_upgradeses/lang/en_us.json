@@ -1,0 +1,33 @@
+{
+  "item.netherite_upgradeses.raw_enderanite_nugget": "Raw enderanite nugget",
+  "item.netherite_upgradeses.raw_enderanite": "Raw enderanite",
+  "item.netherite_upgradeses.raw_enderanite_block": "Raw enderanite block",
+  "item.netherite_upgradeses.enderanite_nugget": "Enderanite nugget",
+  "item.netherite_upgradeses.enderanite_ingot": "Enderanite ingot",
+  "item.netherite_upgradeses.enderanite_block": "Enderanite block",
+  "item.netherite_upgradeses.enderanite_ore": "Enderanite ore",
+  "item.netherite_upgradeses.enderanite_smithing_template": "Enderanite smithing template",
+  "item.netherite_upgradeses.enderanite_sword": "Enderanite sword",
+
+  "item.netherite_upgradeses.raw_blazing_nugget": "Raw blazing nugget",
+  "item.netherite_upgradeses.raw_blazing": "Raw blazing",
+  "item.netherite_upgradeses.raw_blazing_block": "Raw blazing block",
+  "item.netherite_upgradeses.blazing_nugget": "Blazing nugget",
+  "item.netherite_upgradeses.blazing_ingot": "Blazing ingot",
+  "item.netherite_upgradeses.blazing_block": "Blazing block",
+  "item.netherite_upgradeses.blazing_ore": "Blazing ore",
+  "item.netherite_upgradeses.blazing_smithing_template": "Blazing smithing template",
+  "item.netherite_upgradeses.blazing_sword": "Blazing sword",
+
+
+  "block.netherite_upgradeses.enderanite_ore": "Enderanite ore.",
+  "block.netherite_upgradeses.raw_enderanite_block": "Raw enderanite block.",
+  "block.netherite_upgradeses.enderanite_block": "Enderanite block.",
+
+  "block.netherite_upgradeses.blazing_ore": "Blazing ore.",
+  "block.netherite_upgradeses.raw_blazing_block": "Raw blazing block.",
+  "block.netherite_upgradeses.blazing_block": "Blazing block.",
+
+
+  "creativetab.netherite_upgradeses_tab": "Netherite upgradeses tab"
+}

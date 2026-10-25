@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "show_notification": true,
+    "key": {
+        "M": {
+            "item": "netherite_upgradeses:raw_blazing_nugget"
+        }
+    },
+    "pattern": [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    "result": {
+        "item": "netherite_upgradeses:raw_blazing",
+        "count": 1
+    }
+}

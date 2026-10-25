@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "show_notification": true,
+    "key": {
+        "M": {
+            "item": "netherite_upgradeses:blazing_ingot"
+        }
+    },
+    "pattern": [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    "result": {
+        "item": "netherite_upgradeses:blazing_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "show_notification": true,
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "netherite_upgradeses:enderanite_smithing_template"
+    },
+    "I": {
+      "item": "netherite_upgradeses:enderanite_ingot"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DTD",
+    "DID"
+  ],
+  "result": {
+    "item": "netherite_upgradeses:enderanite_smithing_template",
+    "count": 2
+  }
+}

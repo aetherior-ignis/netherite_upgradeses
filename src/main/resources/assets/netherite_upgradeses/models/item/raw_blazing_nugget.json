@@ -1,0 +1,6 @@
+{
+  "parent" : "item/generated",
+  "textures" : {
+    "layer0" : "netherite_upgradeses:item/raw_blazing_nugget_picture"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#netherite_upgradeses:end_outer_islands",
+  "features": "netherite_upgradeses:enderanite_ore",
+  "step": "underground_ores"
+}

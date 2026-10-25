@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "show_notification": true,
+    "ingredients": [
+        {
+            "item": "netherite_upgradeses:blazing_block"
+        }
+    ],
+    "result": {
+        "item": "netherite_upgradeses:blazing_ingot",
+        "count": 9
+    }
+}
